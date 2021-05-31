@@ -1,0 +1,11 @@
+.DashTaskStyle{
+    margin-left: 100px;
+  max-width: 1450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.spinnerStyle{
+    margin-left: 600px;
+
+}

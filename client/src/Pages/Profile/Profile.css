@@ -1,0 +1,25 @@
+.SideBar{
+    position: relative;
+  top: 20px;
+}
+.Tasks{
+  margin-left: 100px;
+  max-width: 1400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.ProfileAndCreate{
+  display: flex;
+  margin-top: 25px;
+}
+.CreateDashbtn{
+  height: 30px;
+  margin:auto;
+  margin-bottom: 10%;
+  color:chartreuse !important;
+}
+.ProfileCardStyle{
+  width: 1000px;
+}

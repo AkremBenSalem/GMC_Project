@@ -1,0 +1,15 @@
+.TaskListDash{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.TaskCard{
+    margin-left: 20px !important;
+}
+
+.spinnerStyle{
+    margin-left: auto;
+    margin-right:auto;
+
+}

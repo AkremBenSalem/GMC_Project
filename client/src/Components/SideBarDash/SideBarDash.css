@@ -1,0 +1,5 @@
+.mainSideBar{
+    margin-top: 68px;
+    position:fixed;
+    overflow-y: auto;
+}

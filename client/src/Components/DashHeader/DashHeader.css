@@ -1,0 +1,8 @@
+.dashTitle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 50%;
+    margin-right: 30px;
+}
